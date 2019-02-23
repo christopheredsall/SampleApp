@@ -14,7 +14,7 @@ cd SampleApp
 
 ```
 make
-make star-sim
+make start-sim
 make run
 ```
 
