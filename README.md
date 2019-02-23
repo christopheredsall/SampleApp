@@ -1,7 +1,7 @@
 # Sample ios Application From The Command Line
 
 This repo is based on the the blog post 
-[IOS DEVELOPMENT ON THE COMMAND LINE](http://eqdn.tech/ios-development-on-the-command-line/)
+[IOS DEVELOPMENT ON THE COMMAND LINE](https://web.archive.org/web/20180902094100/http://eqdn.tech/ios-development-on-the-command-line/)
 
 ## Clone repo
 
